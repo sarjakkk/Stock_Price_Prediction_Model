@@ -1,4 +1,4 @@
-# Recurrent Neural Networks to predict Google Stock Price
+# Google Stock Price Prediction
 
 This project involves the use of Recurrent Neural Networks along with Long Short-Term Memory (LSTM) to
 predict the stock prices of Google.
